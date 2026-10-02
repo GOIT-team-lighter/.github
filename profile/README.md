@@ -46,7 +46,7 @@
 
 <div align="center">
 
-### PROJECT_NAME
+### TaskPro
 
 | Repository | Description | Опис |
 | :--- | :--- | :--- |
