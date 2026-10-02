@@ -33,11 +33,11 @@
       <sub>🎨 Fullstack </sub>
     </td>
     <td align="center" width="220">
-      <a href="https://github.com/USERNAME_3">
-        <img src="https://github.com/USERNAME_3.png" width="100" alt="USERNAME_3"/><br/>
+      <a href="https://github.com/sashamohylda">
+        <img src="https://github.com/sashamohylda.png" width="100" alt="USERNAME_3"/><br/>
         <b>Oleksandra Mohylda</b>
       </a><br/>
-      <sub>🧩 Fullstack </sub>
+      <sub>🧩 Frontend </sub>
     </td>
   </tr>
 </table>
